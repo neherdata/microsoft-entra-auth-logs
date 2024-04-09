@@ -1,0 +1,40 @@
+﻿userPrincipalName,userDisplayName,mfaCapable,passwordlessCapable,ssprCapable,ssprRegistered,ssprEnabled,methodsRegistered,defaultMfaMethod
+admin@neherdata.com,NDS Global Administrator,Capable,Capable,Capable,Registered,Enabled,Microsoft Passwordless phone sign-in|Mobile phone|Microsoft Authenticator app (push notification)|Software OATH token,Microsoft Authenticator app (push notification)
+ads@neherdata.com,NDS Advertisements,Not capable,Not capable,Not capable,Not registered,Enabled,,None
+andrew@neherdata.com,Andrew Vidot Gonzales,Capable,Not capable,Capable,Registered,Enabled,Mobile phone,Mobile phone
+archivebox@neherdata.com,NDS ArchiveBox,Not capable,Not capable,Capable,Registered,Enabled,,None
+aws@neherdata.cloud,NDS AWS Administrator,Not capable,Not capable,Not capable,Not registered,Enabled,,None
+bitwarden@neherdata.com,NDS Bitwarden,Not capable,Not capable,Not capable,Not registered,Enabled,,None
+brendan@neherdata.com,Brendan Fazio,Capable,Not capable,Capable,Registered,Enabled,Software OATH token,Software OATH token
+brother@neherdata.com,NDS Brother,Not capable,Not capable,Capable,Registered,Enabled,,None
+cash.dosby@neherdata.com,Cash Dosby,Capable,Not capable,Capable,Registered,Enabled,Microsoft Authenticator app (push notification)|Software OATH token,Microsoft Authenticator app (push notification)
+christian@neherdata.com,Christian Cifuentes,Capable,Not capable,Capable,Registered,Enabled,Email|Mobile phone,Mobile phone
+dan.bower@neherdata.tools,Daniel Bower,Capable,Not capable,Capable,Registered,Enabled,Mobile phone|Microsoft Authenticator app (push notification)|Software OATH token,Microsoft Authenticator app (push notification)
+dev@neherdata.com,NDS Dev,Not capable,Not capable,Capable,Registered,Enabled,,None
+do@neherdata.com,NDS DO Administrator,Not capable,Not capable,Capable,Registered,Enabled,,None
+expo@neherdata.com,NDS Expo,Not capable,Not capable,Capable,Registered,Enabled,,None
+finance@neherdata.com,NDS Billing and Finance,Not capable,Not capable,Capable,Registered,Enabled,,None
+gcp@neherdata.com,NDS GCP Admin,Not capable,Not capable,Not capable,Not registered,Enabled,,None
+gerry@neherdata.com,Gerard Rappa,Not capable,Not capable,Capable,Registered,Enabled,,None
+google-tag-manager@neherdata.com,NDS Google Tag Manager,Not capable,Not capable,Capable,Registered,Enabled,,None
+gov@neherdata.com,NDS Goverment,Not capable,Not capable,Capable,Registered,Enabled,,None
+grundle@neherdata.com,Grundle Hunter,Not capable,Not capable,Not capable,Not registered,Enabled,,None
+hello@neherdata.com,NDS Hello,Not capable,Not capable,Not capable,Not registered,Enabled,,None
+isabella@neherdata.com,Isabella Cruz,Capable,Not capable,Capable,Registered,Enabled,Microsoft Authenticator app (push notification)|Software OATH token,Microsoft Authenticator app (push notification)
+james@neherdata.com,James Westover,Capable,Not capable,Capable,Registered,Enabled,Email|Mobile phone|Microsoft Authenticator app (push notification)|Software OATH token,Microsoft Authenticator app (push notification)
+joe@neherdata.com,Joe Ugalde,Capable,Not capable,Capable,Registered,Enabled,Email|Mobile phone|Microsoft Authenticator app (push notification)|Software OATH token,Software OATH token
+legal@neherdata.com,NDS Legal,Not capable,Not capable,Capable,Registered,Enabled,,None
+nds-abm-admin-unfederated@neherdata.com,NDS ABM Admin Unfederated,Not capable,Not capable,Capable,Registered,Enabled,,None
+nds-abm-cloud@neherdata.cloud,NDS ABM Cloud,Capable,Not capable,Capable,Registered,Enabled,Mobile phone|Software OATH token,Software OATH token
+nickmckinley@neherdata.com,Nick McKinley,Capable,Not capable,Capable,Registered,Enabled,Mobile phone,Mobile phone
+oraclecloud@neherdata.com,NDS OCI Administrator,Not capable,Not capable,Capable,Registered,Enabled,,None
+seaside-tv@neherdata.com,NDS SeasideTV,Capable,Capable,Capable,Registered,Enabled,Microsoft Passwordless phone sign-in|Microsoft Authenticator app (push notification)|Software OATH token,Microsoft Authenticator app (push notification)
+sharepoint@neherdata.com,NDS Sharepoint,Not capable,Not capable,Capable,Registered,Enabled,,None
+steve_tillieoutfitters.com#EXT#@neherdatasystems.onmicrosoft.com,Stephen Aitken,Not capable,Not capable,Capable,Registered,Enabled,,None
+support@neherdata.com,NDS Support,Not capable,Not capable,Not capable,Not registered,Enabled,,None
+tally@neher.me,Tally Neher,Capable,Not capable,Capable,Registered,Enabled,Mobile phone|Software OATH token,Software OATH token
+theresa@neherdata.cloud,Theresa Neher,Capable,Capable,Capable,Registered,Enabled,Email|Microsoft Passwordless phone sign-in|Mobile phone|Microsoft Authenticator app (push notification)|Software OATH token,Mobile phone
+tim@neherdata.cloud,Tim Neher,Capable,Capable,Capable,Registered,Enabled,Email|Microsoft Passwordless phone sign-in|Mobile phone|Microsoft Authenticator app (push notification)|Software OATH token,Software OATH token
+tyler@neherdata.com,Tyler M. Neher,Capable,Capable,Capable,Registered,Enabled,Microsoft Passwordless phone sign-in|Passkey (device-bound)|Mobile phone|Microsoft Authenticator app (push notification)|Software OATH token,Software OATH token
+ups@neherdata.com,NDS UPS,Not capable,Not capable,Capable,Registered,Enabled,,None
+vultr@neherdata.com,NDS Vultr,Not capable,Not capable,Capable,Registered,Enabled,,None
